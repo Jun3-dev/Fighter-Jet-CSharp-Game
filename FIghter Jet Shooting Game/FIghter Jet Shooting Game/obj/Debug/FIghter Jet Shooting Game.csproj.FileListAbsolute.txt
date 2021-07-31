@@ -1,0 +1,10 @@
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\bin\Debug\FIghter Jet Shooting Game.exe.config
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\bin\Debug\FIghter Jet Shooting Game.exe
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\bin\Debug\FIghter Jet Shooting Game.pdb
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\obj\Debug\FIghter Jet Shooting Game.csprojAssemblyReference.cache
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\obj\Debug\FIghter_Jet_Shooting_Game.Form1.resources
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\obj\Debug\FIghter_Jet_Shooting_Game.Properties.Resources.resources
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\obj\Debug\FIghter Jet Shooting Game.csproj.GenerateResource.cache
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\obj\Debug\FIghter Jet Shooting Game.csproj.CoreCompileInputs.cache
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\obj\Debug\FIghter Jet Shooting Game.exe
+C:\Users\junle\source\repos\FIghter Jet Shooting Game\FIghter Jet Shooting Game\obj\Debug\FIghter Jet Shooting Game.pdb
