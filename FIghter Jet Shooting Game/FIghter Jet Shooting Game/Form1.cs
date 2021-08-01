@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -51,7 +51,7 @@ namespace FIghter_Jet_Shooting_Game
             {
                 player.Left -= playerSpeed;
             }
-            if (goRight == true && player.Left < 688)
+            if (goRight == true && player.Left < 450)
             {
                 player.Left += playerSpeed;
             }
@@ -77,21 +77,21 @@ namespace FIghter_Jet_Shooting_Game
             {
                 score += 1;
                 enemyOne.Top = -450;
-                enemyOne.Left = rnd.Next(20, 600);
+                enemyOne.Left = rnd.Next(20, 450);
                 shooting = false;
             }
             if (bullet.Bounds.IntersectsWith(enemyTwo.Bounds))
             {
                 score += 1;
                 enemyTwo.Top = -650;
-                enemyTwo.Left = rnd.Next(20, 600);
+                enemyTwo.Left = rnd.Next(20, 450);
                 shooting = false;
             }
             if (bullet.Bounds.IntersectsWith(enemyThree.Bounds))
             {
                 score += 1;
                 enemyThree.Top = -750;
-                enemyThree.Left = rnd.Next(20, 600);
+                enemyThree.Left = rnd.Next(20, 450);
                 shooting = false;
             }
 
